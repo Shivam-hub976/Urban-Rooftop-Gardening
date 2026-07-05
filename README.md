@@ -18,7 +18,7 @@ This application was built with strict adherence to Enterprise Technical Require
 - **Security:** Implements DOM-based XSS sanitization to neutralize malicious inputs before processing or rendering them to the DOM.
 - **Telemetry Simulation:** Logs an analytics event to the console upon successful completion of a primary search action.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **HTML5:** Semantic architecture with strict ARIA labeling (`aria-live`, `aria-label`, `.sr-only`).
 - **CSS3:** Mobile-first, responsive grid layout utilizing a strict monochromatic corporate design system. Zero external CSS frameworks (no Tailwind or Bootstrap).
